@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+transformers
+accelerate
+sentencepiece
+torch
+huggingface_hub
+requests
+nest-asyncio
